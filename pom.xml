@@ -6,7 +6,7 @@
 	<artifactId>java-war-deploy-example</artifactId>
 	<packaging>jar</packaging>
 	<version>0.2-SNAPSHOT</version>
-	<name>Demo for deploying WAR and JAR files</name>
+	<name>Demowar</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
